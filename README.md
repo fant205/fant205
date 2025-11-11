@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fant205
-- 👀 I’m interested in Java, Spring Boot
-- 💞️ I’m looking to collaborate on Java projects with Spring Boot
+- 👀 I’m interested in Java
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me latem377@gmail.com
